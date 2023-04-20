@@ -1,5 +1,7 @@
 # Decentralized Payment Infrastructure
 
+[![Tests](https://github.com/ispolink/payment-system/actions/workflows/test.yml/badge.svg)](https://github.com/ispolink/payment-system/actions)
+
 This repository contains the source code for Ispolink's payment infrastructure - an interoperable in-Dapp subscription system.
 
 
